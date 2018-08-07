@@ -1,0 +1,24 @@
+html {
+	text-align: center;
+	font-size: 16px;
+	display: block;
+}
+img {
+	max-width: 300px;
+	max-height: 300px;
+}
+#right {
+	float: right;
+	padding-bottom: 100%
+}
+#left {
+	float: left;
+	padding-bottom: 100%
+}
+#timeline {
+	margin-left: 20%;
+}
+#vents {
+	border-style: ridge;
+	padding: 5px;
+}
